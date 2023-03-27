@@ -19,6 +19,6 @@
 - Overall, the Bikroy.com database project is a crucial component of the website's infrastructure, enabling the smooth functioning of the marketplace and facilitating 
 actions between buyers and sellers.
 
-#ER Diagram Picture of this project
-[08 bikroy FULL ERD](https://user-images.githubusercontent.com/76069126/227967273-17dc90b9-68de-4534-845a-97c82d5e3b8f.png)
+# ER Diagram Picture of this project.
 
+![08 bikroy FULL ERD](https://user-images.githubusercontent.com/76069126/227967790-d11b5992-c7bd-4866-b03a-a859e472ac69.png)
